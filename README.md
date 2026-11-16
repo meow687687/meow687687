@@ -8,7 +8,7 @@
 
 ## 🧠 About me
 
-- 🔭 **Right now:** building terminal tools in Rust, interactive CS learning visuals, and a digital health platform.
+- 🔭 **Right now:** building terminal tools in Rust and interactive CS learning visuals.
 - 🛠️ **My style:** small, sharp tools that do one thing well, and big projects that are fun to build.
 - 🎯 **This profile is my personal page.** Come for the projects, stay for the terrible puns.
 - 💬 **Want to talk?** Say hi through the links below.
@@ -22,7 +22,6 @@
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 ## 🚀 Featured projects
@@ -31,7 +30,6 @@
 |---|---|---|
 | [**spacer**](https://github.com/meow687687/spacer) | Fast terminal storage manager. Finds wasted space, shows treemaps, and dedupes with one keypress. | Rust, ratatui |
 | [**Lumenode**](https://github.com/meow687687/Lumenode) | Open-source, free CS learning platform. Visual lab for algorithms, memory, and OOP. | JavaScript |
-| [**healthOraa**](https://github.com/meow687687/healthOraa) | Digital health platform connecting patients with practitioners. Mobile app plus three web portals. | TypeScript, Expo, Supabase |
 | [**tally**](https://github.com/meow687687/tally) | Small CLI that counts files, sizes, and extensions in a directory tree. | Python |
 | [**portfolio-nexus**](https://github.com/meow687687/portfolio-nexus) | My personal portfolio site, with an editorial design and honest project notes. | TypeScript, Next.js, Tailwind |
 
